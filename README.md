@@ -14,8 +14,8 @@ Now the installation is done we move to the next part!
 1. Open powershell
 2. Type 'python bird.py'
 3. Enjoy the game!
-# Bugfixes
-Let me know in the issues tab!
+# Issues and Feedback
+If you encounter any problems or have feedback about the game, feel free to open an issue on the issues page of this project. We appreciate your input and will do our best to address any issues promptly!
 
 
 
